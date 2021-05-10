@@ -1,0 +1,2 @@
+Use Spider and open in normal env. 
+The virtual env for this project does not work
